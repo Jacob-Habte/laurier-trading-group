@@ -1,0 +1,4 @@
+strategy,peak_date,trough_date,recovery_date,max_drawdown,calendar_days_peak_to_recovery,longest_underwater_trading_days
+Skew,2007-07-17,2008-03-20,2008-11-06,-0.23838589888943273,478,1453
+Trend,1993-09-07,1995-03-14,1995-12-04,-0.2329736112528802,818,2603
+50% skew / 50% trend,2022-11-03,2023-04-05,2024-02-15,-0.17402701855640057,469,824

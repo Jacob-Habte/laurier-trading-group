@@ -1,0 +1,25 @@
+event_date,effective_date,event_type,reason,shadow_drawdown,shadow_annualized_volatility
+1992-09-28,1992-09-29,Kill switch activated,Drawdown,-0.1523277877914362,0.0728256989646556
+1993-09-07,1993-09-08,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.0694695797985111,0.13635378065214196
+1995-06-02,1995-06-05,Kill switch activated,Drawdown,-0.16106357944085747,0.15425122694032584
+1996-11-25,1996-11-26,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.06531348254645242,0.14019993565248298
+2002-10-15,2002-10-16,Kill switch activated,Volatility,-0.059296827714529154,0.21958702880395298
+2002-11-12,2002-11-13,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.049760960645388486,0.1427761784524544
+2003-01-02,2003-01-03,Kill switch activated,Volatility,-0.044472232439078385,0.2112831748249495
+2003-01-31,2003-02-03,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.03719690629441441,0.12923747222317183
+2003-03-24,2003-03-25,Kill switch activated,Volatility,-0.05393096692615751,0.2065284763785172
+2003-04-23,2003-04-24,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.06672550479151462,0.14979931234469104
+2003-09-02,2003-09-03,Kill switch activated,Drawdown,-0.1528183241100295,0.14338904096277635
+2005-09-28,2005-09-29,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.07247767754321377,0.08336992835863855
+2007-08-16,2007-08-17,Kill switch activated,Volatility,-0.11733794413257836,0.20326148575701367
+2007-10-03,2007-10-04,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.07325967270479006,0.14083350190764715
+2007-11-15,2007-11-16,Kill switch activated,Volatility,-0.14154156410481755,0.20439425489551377
+2008-10-31,2008-11-03,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.008910212393475225,0.1489759467759202
+2010-08-11,2010-08-12,Kill switch activated,Drawdown,-0.1662010270530273,0.16722206769820475
+2014-07-01,2014-07-02,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.0714007494613994,0.07307288132565175
+2019-08-25,2019-08-26,Kill switch activated,Volatility,-0.0609287358081787,0.20182671103995706
+2019-09-17,2019-09-18,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.0029978252739619737,0.11678526686893066
+2020-03-10,2020-03-11,Kill switch activated,Volatility,-0.11949552897250115,0.2049344760916482
+2022-03-16,2022-03-17,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.0696132302407021,0.11680138492261292
+2023-03-15,2023-03-16,Kill switch activated,Drawdown,-0.15035973659306623,0.1937300922881877
+2023-06-29,2023-06-30,Strategy reactivated,Cooldown completed and risk conditions normalized,-0.0748578210539661,0.14733660223098846
