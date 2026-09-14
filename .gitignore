@@ -44,8 +44,11 @@ Thumbs.db
 ~$*
 *.zip
 
+# Downloaded and generated local data
+data/raw/
+data/processed/
+
 # Large local data stores
 *.db
 *.sqlite
 *.sqlite3
-data/raw/
